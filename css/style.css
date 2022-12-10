@@ -72,6 +72,11 @@ nav ul li a{
     margin-top: 20px;
 }
 
+.content a:hover{
+    color: black;
+    background-color: white;
+}
+
 .back-video{
     position: absolute;
     right: 0;
